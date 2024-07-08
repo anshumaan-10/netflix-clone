@@ -19,8 +19,6 @@
 
 
 ## Susbcribe:
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
